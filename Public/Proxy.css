@@ -1,0 +1,17 @@
+.grid-Container-Top{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+.topContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
+.topBar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
